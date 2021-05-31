@@ -114,6 +114,11 @@ Have a bug or a feature request? If your issue isn't [already listed](https://gi
 
 
 ## TODO
-
 - Set up travis-ci
+## Steps to Contribute to this project 
+Fork this repo to your github account  
+Clone the forked account  
+Make a new branch from the master branch and make changes  
+Push the changes to your forked repo    
+Make a pull request from the forked repo and ask to merge into the orginal repos master branch  
 
