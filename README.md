@@ -119,6 +119,6 @@ Have a bug or a feature request? If your issue isn't [already listed](https://gi
 Fork this repo to your github account  
 Clone the forked account  
 Make a new branch from the master branch and make changes  
-Push the changes to your forked repo    
-Make a pull request from the forked repo and ask to merge into the orginal repos master branch  
+Push the changes to your forked repository    
+Make a pull request from the forked repo by keeping the base repository as the original repositoty and the base as master and the head repository as your own repository and the compare as the hotfix/readme-update 
 
